@@ -14,7 +14,7 @@ colorscheme peaksea
 "hi Normal ctermbg=NONE guibg=NONE
 
 "execute pathogen#infect()
-
+"add something...
 :set number
 :set rnu
 
